@@ -1,5 +1,5 @@
 # Data-Structures-Algorithms
-Storage of course notes and exercises.
+Python Data Structures & Algorithms provided on Udemy. This is the repository for storing course notes and exercises.
 
 
 Course content includes:
